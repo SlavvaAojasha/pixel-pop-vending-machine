@@ -1,0 +1,17 @@
+# Compiled Windows binaries and build artifacts
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+build/
+dist/
+*.log
+
+# Editors and OS
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
